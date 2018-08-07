@@ -1,0 +1,142 @@
+2018-08-07 08:07:18 INFO  MyThread:22 - MyThread running
+2018-08-07 08:09:01 INFO  MyThread:26 - MyThread running
+2018-08-07 08:09:06 INFO  MyThread:26 - MyThread running
+2018-08-07 08:09:11 INFO  MyThread:26 - MyThread running
+2018-08-07 08:10:28 DEBUG MyThreadApp:16 - Starting threads...
+2018-08-07 08:10:28 DEBUG MyThreadApp:19 - Thread started!
+2018-08-07 08:10:28 INFO  MyThread:26 - MyThread running
+2018-08-07 08:10:33 INFO  MyThread:26 - MyThread running
+2018-08-07 08:10:38 INFO  MyThread:26 - MyThread running
+2018-08-07 08:14:08 DEBUG MyRunnableApp:16 - Starting threads...
+2018-08-07 08:14:08 DEBUG MyRunnableApp:19 - Thread started!
+2018-08-07 08:14:08 INFO  MyRunnable:26 - MyRunnable running
+2018-08-07 08:14:13 INFO  MyRunnable:26 - MyRunnable running
+2018-08-07 08:14:18 INFO  MyRunnable:26 - MyRunnable running
+2018-08-07 08:14:23 INFO  MyRunnable:26 - MyRunnable running
+2018-08-07 08:14:28 INFO  MyRunnable:26 - MyRunnable running
+2018-08-07 12:05:35 DEBUG AnonymousThreadApp:16 - Starting threads...
+2018-08-07 12:05:35 DEBUG AnonymousThreadApp:36 - Thread started!
+2018-08-07 12:05:35 INFO  AnonymousThreadApp:25 - Anonymous thread running
+2018-08-07 12:05:40 INFO  AnonymousThreadApp:25 - Anonymous thread running
+2018-08-07 12:05:45 INFO  AnonymousThreadApp:25 - Anonymous thread running
+2018-08-07 12:12:49 DEBUG LambdaThreadApp:16 - Starting threads...
+2018-08-07 12:12:49 INFO  LambdaThreadApp:23 - Lambda thread running
+2018-08-07 12:12:49 DEBUG LambdaThreadApp:33 - Thread started!
+2018-08-07 12:12:54 INFO  LambdaThreadApp:23 - Lambda thread running
+2018-08-07 12:12:59 INFO  LambdaThreadApp:23 - Lambda thread running
+2018-08-07 12:13:04 INFO  LambdaThreadApp:23 - Lambda thread running
+2018-08-07 12:19:00 DEBUG MyThreadApp2:16 - Starting threads...
+2018-08-07 12:19:00 DEBUG MyThreadApp2:19 - Thread started!
+2018-08-07 12:19:00 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:19:05 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:26:21 DEBUG MyThreadApp3:16 - Starting threads...
+2018-08-07 12:26:21 INFO  MyThreadApp3:19 - main
+2018-08-07 12:26:21 DEBUG MyThreadApp3:20 - Thread started!
+2018-08-07 12:26:21 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:26:26 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:26:31 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:27:02 DEBUG MyThreadApp3:16 - Starting threads...
+2018-08-07 12:27:02 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:27:02 INFO  MyThreadApp3:19 - Main thread main
+2018-08-07 12:27:02 DEBUG MyThreadApp3:20 - Thread started!
+2018-08-07 12:27:07 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:27:12 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:27:20 DEBUG MyThreadApp3:16 - Starting threads...
+2018-08-07 12:27:20 INFO  MyThreadApp3:19 - Main thread name : [main]
+2018-08-07 12:27:20 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:27:20 DEBUG MyThreadApp3:20 - Thread started!
+2018-08-07 12:27:25 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:27:30 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:27:35 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:27:40 INFO  MyThread2:26 - Educacion IT running
+2018-08-07 12:46:26 DEBUG MyThreadApp4:16 - Starting threads...
+2018-08-07 12:46:26 DEBUG MyThreadApp4:20 - Thread started!
+2018-08-07 12:46:26 INFO  MyThread2:26 - eBay running
+2018-08-07 12:46:26 INFO  MyThread2:26 - Paypal running
+2018-08-07 12:46:26 INFO  MyThread2:26 - Google running
+2018-08-07 12:46:31 INFO  MyThread2:26 - Google running
+2018-08-07 12:46:31 INFO  MyThread2:26 - eBay running
+2018-08-07 12:46:31 INFO  MyThread2:26 - Paypal running
+2018-08-07 12:46:36 INFO  MyThread2:26 - Google running
+2018-08-07 12:46:36 INFO  MyThread2:26 - eBay running
+2018-08-07 12:46:36 INFO  MyThread2:26 - Paypal running
+2018-08-07 12:46:41 INFO  MyThread2:26 - eBay running
+2018-08-07 12:46:41 INFO  MyThread2:26 - Google running
+2018-08-07 12:46:41 INFO  MyThread2:26 - Paypal running
+2018-08-07 12:46:53 DEBUG MyThreadApp4:16 - Starting threads...
+2018-08-07 12:46:53 DEBUG MyThreadApp4:20 - Thread started!
+2018-08-07 12:46:53 INFO  MyThread2:26 - Google running
+2018-08-07 12:46:53 DEBUG MyThread4:24 - Loop 0 Paypal 
+2018-08-07 12:46:53 DEBUG MyThread4:24 - Loop 0 eBay 
+2018-08-07 12:46:54 DEBUG MyThread4:24 - Loop 1 Paypal 
+2018-08-07 12:46:55 DEBUG MyThread4:24 - Loop 1 eBay 
+2018-08-07 12:46:55 DEBUG MyThread4:24 - Loop 2 Paypal 
+2018-08-07 12:46:55 DEBUG MyThread4:24 - Loop 3 Paypal 
+2018-08-07 12:46:56 DEBUG MyThread4:24 - Loop 4 Paypal 
+2018-08-07 12:46:56 INFO  MyThread4:30 - Test Finished for Paypal 
+2018-08-07 12:46:56 DEBUG MyThread4:24 - Loop 2 eBay 
+2018-08-07 12:46:57 DEBUG MyThread4:24 - Loop 3 eBay 
+2018-08-07 12:46:57 DEBUG MyThread4:24 - Loop 4 eBay 
+2018-08-07 12:46:58 INFO  MyThread4:30 - Test Finished for eBay 
+2018-08-07 12:46:58 INFO  MyThread2:26 - Google running
+2018-08-07 12:47:03 INFO  MyThread2:26 - Google running
+2018-08-07 12:47:08 INFO  MyThread2:26 - Google running
+2018-08-07 12:47:24 DEBUG MyThreadApp4:16 - Starting threads...
+2018-08-07 12:47:24 DEBUG MyThreadApp4:20 - Thread started!
+2018-08-07 12:47:24 DEBUG MyThread4:24 - Loop 0 Paypal 
+2018-08-07 12:47:24 DEBUG MyThread4:24 - Loop 0 Google 
+2018-08-07 12:47:24 DEBUG MyThread4:24 - Loop 0 eBay 
+2018-08-07 12:47:24 DEBUG MyThread4:24 - Loop 1 eBay 
+2018-08-07 12:47:25 DEBUG MyThread4:24 - Loop 2 eBay 
+2018-08-07 12:47:25 DEBUG MyThread4:24 - Loop 1 Google 
+2018-08-07 12:47:26 DEBUG MyThread4:24 - Loop 1 Paypal 
+2018-08-07 12:47:26 DEBUG MyThread4:24 - Loop 3 eBay 
+2018-08-07 12:47:27 DEBUG MyThread4:24 - Loop 2 Google 
+2018-08-07 12:47:27 DEBUG MyThread4:24 - Loop 3 Google 
+2018-08-07 12:47:27 DEBUG MyThread4:24 - Loop 4 eBay 
+2018-08-07 12:47:28 DEBUG MyThread4:24 - Loop 2 Paypal 
+2018-08-07 12:47:28 DEBUG MyThread4:24 - Loop 3 Paypal 
+2018-08-07 12:47:29 INFO  MyThread4:30 - Test Finished for eBay 
+2018-08-07 12:47:29 DEBUG MyThread4:24 - Loop 4 Google 
+2018-08-07 12:47:30 DEBUG MyThread4:24 - Loop 4 Paypal 
+2018-08-07 12:47:30 INFO  MyThread4:30 - Test Finished for Paypal 
+2018-08-07 12:47:30 INFO  MyThread4:30 - Test Finished for Google 
+2018-08-07 12:48:46 DEBUG MyThreadApp4:16 - Starting threads...
+2018-08-07 12:48:46 DEBUG MyThread4:24 - Loop 0 eBay 
+2018-08-07 12:48:47 DEBUG MyThread4:24 - Loop 1 eBay 
+2018-08-07 12:48:48 DEBUG MyThread4:24 - Loop 2 eBay 
+2018-08-07 12:48:49 DEBUG MyThread4:24 - Loop 3 eBay 
+2018-08-07 12:48:49 DEBUG MyThread4:24 - Loop 4 eBay 
+2018-08-07 12:48:51 INFO  MyThread4:30 - Test Finished for eBay 
+2018-08-07 12:48:51 DEBUG MyThread4:24 - Loop 0 Paypal 
+2018-08-07 12:48:52 DEBUG MyThread4:24 - Loop 1 Paypal 
+2018-08-07 12:48:54 DEBUG MyThread4:24 - Loop 2 Paypal 
+2018-08-07 12:48:55 DEBUG MyThread4:24 - Loop 3 Paypal 
+2018-08-07 12:48:57 DEBUG MyThread4:24 - Loop 4 Paypal 
+2018-08-07 14:48:42 INFO  AnonymousThreadApp:41 - Starting Thread 1
+2018-08-07 14:48:42 DEBUG AnonymousThreadApp:19 - Entered Thread 1
+2018-08-07 14:48:42 WARN  AnonymousThreadApp:45 - Waiting for Thread 1 to complete
+2018-08-07 14:48:43 INFO  AnonymousThreadApp:54 - Waited enough! Starting Thread 2 now
+2018-08-07 14:48:43 DEBUG AnonymousThreadApp:31 - Entered Thread 2
+2018-08-07 14:48:44 DEBUG AnonymousThreadApp:25 - Exiting Thread 1
+2018-08-07 14:48:47 DEBUG AnonymousThreadApp:37 - Exiting Thread 2
+2018-08-07 15:01:28 INFO  FutureAndCallable:27 - Submitting Callable
+2018-08-07 15:01:28 DEBUG FutureAndCallable:22 - Entered Callable
+2018-08-07 15:01:28 INFO  FutureAndCallable:30 - Do something else while callable is getting executed
+2018-08-07 15:01:28 INFO  FutureAndCallable:32 - Retrieve the result of the future
+2018-08-07 15:01:30 INFO  FutureAndCallable:35 - Hello from Callable
+2018-08-07 15:01:45 INFO  FutureAndCallable:27 - Submitting Callable
+2018-08-07 15:01:45 INFO  FutureAndCallable:30 - Do something else while callable is getting executed
+2018-08-07 15:01:45 DEBUG FutureAndCallable:22 - Entered Callable
+2018-08-07 15:01:45 INFO  FutureAndCallable:32 - Retrieve the result of the future
+2018-08-07 15:01:49 INFO  FutureAndCallable:35 - Hello from Callable
+2018-08-07 15:07:19 INFO  ExecutorsExample:16 - Inside : main
+2018-08-07 15:07:19 INFO  ExecutorsExample:18 - Creating Executor Service...
+2018-08-07 15:07:19 INFO  ExecutorsExample:21 - Creating a Runnable...
+2018-08-07 15:07:19 INFO  ExecutorsExample:26 - Submit the task specified by the runnable to the executor service.
+2018-08-07 15:07:19 DEBUG ExecutorsExample:23 - Inside : pool-1-thread-1
+2018-08-07 16:24:05 INFO  CallableFutureTest:34 - 1
+2018-08-07 16:24:05 INFO  CallableFutureTest:34 - 0
+2018-08-07 16:24:05 INFO  CallableFutureTest:34 - 0
+2018-08-07 16:24:11 INFO  CallableFutureTest:34 - 3
+2018-08-07 16:24:11 INFO  CallableFutureTest:34 - 0
