@@ -140,3 +140,480 @@
 2018-08-07 16:24:05 INFO  CallableFutureTest:34 - 0
 2018-08-07 16:24:11 INFO  CallableFutureTest:34 - 3
 2018-08-07 16:24:11 INFO  CallableFutureTest:34 - 0
+2018-08-20 20:42:40 INFO  ExecutorExample:19 - Inside : main
+2018-08-20 20:42:40 INFO  ExecutorExample:25 - Submit the task specified by the runnable to the executor service.
+2018-08-20 20:42:40 DEBUG ExecutorExample:23 - Inside : pool-1-thread-1
+2018-08-20 20:44:06 INFO  ExecutorExample:19 - Inside : main
+2018-08-20 20:44:06 INFO  ExecutorExample:25 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:44:06 DEBUG ExecutorExample:23 - Inside : pool-1-thread-1
+2018-08-20 20:44:06 INFO  ExecutorExample:31 - Submit other task specified by the runnable to the executor service.
+2018-08-20 20:44:06 DEBUG ExecutorExample:29 - Inside : pool-1-thread-1
+2018-08-20 20:46:21 INFO  ExecutorExample:19 - Inside : main
+2018-08-20 20:46:21 INFO  ExecutorExample:33 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:46:21 DEBUG ExecutorExample:27 - Inside : pool-1-thread-1
+2018-08-20 20:46:21 INFO  ExecutorExample:47 - Submit other task specified by the runnable to the executor service.
+2018-08-20 20:46:31 DEBUG ExecutorExample:27 - Inside : pool-1-thread-1
+2018-08-20 20:52:51 INFO  ExecutorExample:23 - Inside : main
+2018-08-20 20:52:52 INFO  ExecutorExample:72 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:52:52 INFO  ExecutorExample:74 - Task specified by the runnable to the executor service sent.
+2018-08-20 20:52:52 DEBUG ExecutorExample:29 - Inside : pool-1-thread-1
+2018-08-20 20:52:52 INFO  ExecutorExample:72 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:52:52 INFO  ExecutorExample:74 - Task specified by the runnable to the executor service sent.
+2018-08-20 20:52:52 INFO  ExecutorExample:72 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:52:52 INFO  ExecutorExample:74 - Task specified by the runnable to the executor service sent.
+2018-08-20 20:53:02 DEBUG ExecutorExample:39 - Inside : pool-1-thread-1
+2018-08-20 20:53:07 DEBUG ExecutorExample:49 - Inside : pool-1-thread-1
+2018-08-20 20:53:29 INFO  ExecutorExample:23 - Inside : main
+2018-08-20 20:53:29 INFO  ExecutorExample:72 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:53:29 INFO  ExecutorExample:74 - Task specified by the runnable to the executor service sent.
+2018-08-20 20:53:29 DEBUG ExecutorExample:29 - Inside : pool-1-thread-1
+2018-08-20 20:53:29 INFO  ExecutorExample:72 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:53:29 INFO  ExecutorExample:74 - Task specified by the runnable to the executor service sent.
+2018-08-20 20:53:29 INFO  ExecutorExample:72 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:53:29 INFO  ExecutorExample:74 - Task specified by the runnable to the executor service sent.
+2018-08-20 20:53:39 DEBUG ExecutorExample:39 - Inside : pool-1-thread-1
+2018-08-20 20:53:44 DEBUG ExecutorExample:49 - Inside : pool-1-thread-1
+2018-08-20 20:54:35 INFO  SingleThreadExecutorExample:23 - Inside : main
+2018-08-20 20:54:35 INFO  SingleThreadExecutorExample:72 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:54:35 INFO  SingleThreadExecutorExample:74 - Task specified by the runnable to the executor service sent.
+2018-08-20 20:54:35 DEBUG SingleThreadExecutorExample:29 - Inside : pool-1-thread-1
+2018-08-20 20:54:35 INFO  SingleThreadExecutorExample:72 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:54:35 INFO  SingleThreadExecutorExample:74 - Task specified by the runnable to the executor service sent.
+2018-08-20 20:54:35 INFO  SingleThreadExecutorExample:72 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:54:35 INFO  SingleThreadExecutorExample:74 - Task specified by the runnable to the executor service sent.
+2018-08-20 20:54:45 DEBUG SingleThreadExecutorExample:39 - Inside : pool-1-thread-1
+2018-08-20 20:54:50 DEBUG SingleThreadExecutorExample:49 - Inside : pool-1-thread-1
+2018-08-20 20:56:20 INFO  SingleThreadExecutorExample:23 - Inside : main
+2018-08-20 20:56:20 INFO  SingleThreadExecutorExample:72 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:56:20 INFO  SingleThreadExecutorExample:74 - Task specified by the runnable to the executor service sent.
+2018-08-20 20:56:20 DEBUG SingleThreadExecutorExample:29 - Inside : pool-1-thread-1
+2018-08-20 20:56:20 INFO  SingleThreadExecutorExample:72 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:56:20 INFO  SingleThreadExecutorExample:74 - Task specified by the runnable to the executor service sent.
+2018-08-20 20:56:20 INFO  SingleThreadExecutorExample:72 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 20:56:20 INFO  SingleThreadExecutorExample:74 - Task specified by the runnable to the executor service sent.
+2018-08-20 20:56:30 DEBUG SingleThreadExecutorExample:39 - Inside : pool-1-thread-1
+2018-08-20 20:56:35 DEBUG SingleThreadExecutorExample:49 - Inside : pool-1-thread-1
+2018-08-20 21:03:02 INFO  FixedThreadPoolExample:24 - Inside : main
+2018-08-20 21:03:02 INFO  FixedThreadPoolExample:73 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 21:03:02 DEBUG FixedThreadPoolExample:30 - Inside : pool-1-thread-1
+2018-08-20 21:03:02 INFO  FixedThreadPoolExample:75 - Task specified by the runnable to the executor service sent.
+2018-08-20 21:03:02 INFO  FixedThreadPoolExample:73 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 21:03:02 DEBUG FixedThreadPoolExample:40 - Inside : pool-1-thread-2
+2018-08-20 21:03:02 INFO  FixedThreadPoolExample:75 - Task specified by the runnable to the executor service sent.
+2018-08-20 21:03:02 INFO  FixedThreadPoolExample:73 - Submit a new task specified by the runnable to the executor service.
+2018-08-20 21:03:02 INFO  FixedThreadPoolExample:75 - Task specified by the runnable to the executor service sent.
+2018-08-20 21:03:04 DEBUG FixedThreadPoolExample:50 - Inside : pool-1-thread-1
+2018-08-20 21:10:26 INFO  ScheduledThreadPoolExample:25 - Inside : main
+2018-08-20 21:10:26 INFO  ScheduledThreadPoolExample:50 - Submit a new task specified after 5 seconds.
+2018-08-20 21:10:26 INFO  ScheduledThreadPoolExample:52 - New task specified after 5 seconds running.
+2018-08-20 21:10:31 DEBUG ScheduledThreadPoolExample:31 - pool-1-thread-1 executing task at 65844595902421 
+2018-08-20 21:12:51 INFO  ScheduledThreadPoolExample:25 - Inside : main
+2018-08-20 21:12:51 INFO  ScheduledThreadPoolExample:70 - Submit a task 1 specified after 5 seconds.
+2018-08-20 21:12:51 INFO  ScheduledThreadPoolExample:72 - Task 1 specified after 5 seconds running.
+2018-08-20 21:12:51 INFO  ScheduledThreadPoolExample:74 - Submit a task 2 specified after 8 seconds.
+2018-08-20 21:12:51 INFO  ScheduledThreadPoolExample:76 - Task 2 specified after 8 seconds running.
+2018-08-20 21:12:51 INFO  ScheduledThreadPoolExample:78 - Submit a task 3 specified after 10 seconds.
+2018-08-20 21:12:51 INFO  ScheduledThreadPoolExample:80 - Task 3 specified after 10 seconds running.
+2018-08-20 21:12:56 DEBUG ScheduledThreadPoolExample:31 - pool-1-thread-1 executing task at 65989622340245 
+2018-08-20 21:13:06 DEBUG ScheduledThreadPoolExample:41 - pool-1-thread-1 executing task at 65999632757413 
+2018-08-20 21:13:11 DEBUG ScheduledThreadPoolExample:31 - pool-1-thread-1 executing task at 66004635290501 
+2018-08-20 21:13:49 INFO  ScheduledThreadPoolExample:25 - Inside : main
+2018-08-20 21:13:49 INFO  ScheduledThreadPoolExample:70 - Submit a task 1 specified after 2 seconds.
+2018-08-20 21:13:49 INFO  ScheduledThreadPoolExample:72 - Task 1 specified after 2 seconds running.
+2018-08-20 21:13:49 INFO  ScheduledThreadPoolExample:74 - Submit a task 2 specified after 2 seconds.
+2018-08-20 21:13:49 INFO  ScheduledThreadPoolExample:76 - Task 2 specified after 2 seconds running.
+2018-08-20 21:13:49 INFO  ScheduledThreadPoolExample:78 - Submit a task 3 specified after 2 seconds.
+2018-08-20 21:13:49 INFO  ScheduledThreadPoolExample:80 - Task 3 specified after 2 seconds running.
+2018-08-20 21:13:51 DEBUG ScheduledThreadPoolExample:31 - pool-1-thread-1 executing task at 66044774777729 
+2018-08-20 21:14:01 DEBUG ScheduledThreadPoolExample:41 - pool-1-thread-1 executing task at 66054782307895 
+2018-08-20 21:14:06 DEBUG ScheduledThreadPoolExample:31 - pool-1-thread-1 executing task at 66059787297729 
+2018-08-20 21:14:22 INFO  ScheduledThreadPoolExample:25 - Inside : main
+2018-08-20 21:14:22 INFO  ScheduledThreadPoolExample:70 - Submit a task 1 specified after 2 seconds.
+2018-08-20 21:14:22 INFO  ScheduledThreadPoolExample:72 - Task 1 specified after 2 seconds running.
+2018-08-20 21:14:22 INFO  ScheduledThreadPoolExample:74 - Submit a task 2 specified after 2 seconds.
+2018-08-20 21:14:22 INFO  ScheduledThreadPoolExample:76 - Task 2 specified after 2 seconds running.
+2018-08-20 21:14:22 INFO  ScheduledThreadPoolExample:78 - Submit a task 3 specified after 2 seconds.
+2018-08-20 21:14:22 INFO  ScheduledThreadPoolExample:80 - Task 3 specified after 2 seconds running.
+2018-08-20 21:14:24 DEBUG ScheduledThreadPoolExample:31 - pool-1-thread-1 executing task at 66077601522964 
+2018-08-20 21:14:34 DEBUG ScheduledThreadPoolExample:41 - pool-1-thread-1 executing task at 66087611462361 
+2018-08-20 21:14:39 DEBUG ScheduledThreadPoolExample:51 - pool-1-thread-1 executing task at 66092615372933 
+2018-08-20 21:21:34 INFO  ScheduledThreadPoolExample:25 - Inside : main
+2018-08-20 21:21:35 INFO  ScheduledThreadPoolExample:70 - Submit a task 1 specified after 2 seconds.
+2018-08-20 21:21:35 INFO  ScheduledThreadPoolExample:72 - Task 1 specified after 2 seconds running.
+2018-08-20 21:21:35 INFO  ScheduledThreadPoolExample:74 - Submit a task 2 specified after 2 seconds.
+2018-08-20 21:21:35 INFO  ScheduledThreadPoolExample:76 - Task 2 specified after 2 seconds running.
+2018-08-20 21:21:35 INFO  ScheduledThreadPoolExample:78 - Submit a task 3 specified after 2 seconds.
+2018-08-20 21:21:35 INFO  ScheduledThreadPoolExample:80 - Task 3 specified after 2 seconds running.
+2018-08-20 21:21:37 DEBUG ScheduledThreadPoolExample:31 - pool-1-thread-1 executing task at 66510322635306 
+2018-08-20 21:21:37 DEBUG ScheduledThreadPoolExample:51 - pool-1-thread-3 executing task at 66510322875263 
+2018-08-20 21:21:37 DEBUG ScheduledThreadPoolExample:41 - pool-1-thread-2 executing task at 66510322641072 
+2018-08-20 21:22:04 INFO  ScheduledThreadPoolExample:25 - Inside : main
+2018-08-20 21:22:04 INFO  ScheduledThreadPoolExample:70 - Submit a task 1 specified after 2 seconds.
+2018-08-20 21:22:04 INFO  ScheduledThreadPoolExample:72 - Task 1 specified after 2 seconds running.
+2018-08-20 21:22:04 INFO  ScheduledThreadPoolExample:74 - Submit a task 2 specified after 2 seconds.
+2018-08-20 21:22:04 INFO  ScheduledThreadPoolExample:76 - Task 2 specified after 2 seconds running.
+2018-08-20 21:22:04 INFO  ScheduledThreadPoolExample:78 - Submit a task 3 specified after 2 seconds.
+2018-08-20 21:22:04 INFO  ScheduledThreadPoolExample:80 - Task 3 specified after 2 seconds running.
+2018-08-20 21:22:06 DEBUG ScheduledThreadPoolExample:31 - pool-1-thread-1 executing task at 66539425364052 
+2018-08-20 21:22:08 DEBUG ScheduledThreadPoolExample:41 - pool-1-thread-2 executing task at 66541425614104 
+2018-08-20 21:22:10 DEBUG ScheduledThreadPoolExample:51 - pool-1-thread-3 executing task at 66543428698493 
+2018-08-20 21:22:58 INFO  ScheduledThreadPoolExample:25 - Inside : main
+2018-08-20 21:22:58 INFO  ScheduledThreadPoolExample:73 - Submit a task 1 specified after 2 seconds.
+2018-08-20 21:22:58 INFO  ScheduledThreadPoolExample:75 - Task 1 specified after 2 seconds running.
+2018-08-20 21:22:58 INFO  ScheduledThreadPoolExample:77 - Submit a task 2 specified after 2 seconds.
+2018-08-20 21:22:58 INFO  ScheduledThreadPoolExample:79 - Task 2 specified after 2 seconds running.
+2018-08-20 21:22:58 INFO  ScheduledThreadPoolExample:81 - Submit a task 3 specified after 2 seconds.
+2018-08-20 21:22:58 INFO  ScheduledThreadPoolExample:83 - Task 3 specified after 2 seconds running.
+2018-08-20 21:23:00 DEBUG ScheduledThreadPoolExample:31 - pool-1-thread-1 executing task at 66593601651573 
+2018-08-20 21:23:02 DEBUG ScheduledThreadPoolExample:42 - pool-1-thread-2 executing task at 66595603832311 
+2018-08-20 21:23:04 DEBUG ScheduledThreadPoolExample:53 - pool-1-thread-3 executing task at 66597603887825 
+2018-08-20 21:23:07 DEBUG ScheduledThreadPoolExample:44 - pool-1-thread-2 finishing task at 66600608966262 
+2018-08-20 21:23:07 DEBUG ScheduledThreadPoolExample:55 - pool-1-thread-3 finishing task at 66600608966282 
+2018-08-20 21:23:10 DEBUG ScheduledThreadPoolExample:33 - pool-1-thread-1 finishing task at 66603610644709 
+2018-08-20 21:36:58 INFO  RaceCondition:33 - Final count is : 1000
+2018-08-20 21:43:55 INFO  SynchronizedRaceCondition:33 - Final count is : 1000
+2018-08-20 21:44:08 INFO  SynchronizedRaceCondition:33 - Final count is : 1000
+2018-08-20 21:45:00 INFO  SynchronizedRaceCondition:33 - Final count is : 1000
+2018-08-20 21:45:04 INFO  SynchronizedRaceCondition:33 - Final count is : 1000
+2018-08-20 21:45:20 INFO  RaceCondition:33 - Final count is : 994
+2018-08-20 21:45:24 INFO  RaceCondition:33 - Final count is : 998
+2018-08-20 21:45:27 INFO  RaceCondition:33 - Final count is : 996
+2018-08-20 21:49:00 INFO  MemoryConsistencyError:33 - Say Hello..
+2018-08-20 21:49:01 INFO  MemoryConsistencyError:37 - Say Bye..
+2018-08-20 21:49:21 INFO  MemoryConsistencyError:33 - Say Hello..
+2018-08-20 21:49:22 INFO  MemoryConsistencyError:37 - Say Bye..
+2018-08-20 21:54:25 INFO  VolatileMemoryConsistencyError:33 - Say Hello..
+2018-08-20 21:54:25 DEBUG VolatileMemoryConsistencyError:23 - Hello World!
+2018-08-20 21:54:26 INFO  VolatileMemoryConsistencyError:37 - Say Bye..
+2018-08-20 21:54:26 DEBUG VolatileMemoryConsistencyError:27 - Good Bye!
+2018-08-20 21:54:38 INFO  MemoryConsistencyError:33 - Say Hello..
+2018-08-20 21:54:39 INFO  MemoryConsistencyError:37 - Say Bye..
+2018-08-20 21:54:54 INFO  VolatileMemoryConsistencyError:33 - Say Hello..
+2018-08-20 21:54:54 DEBUG VolatileMemoryConsistencyError:23 - Hello World!
+2018-08-20 21:54:55 INFO  VolatileMemoryConsistencyError:37 - Say Bye..
+2018-08-20 21:54:55 DEBUG VolatileMemoryConsistencyError:27 - Good Bye!
+2018-08-21 07:38:41 INFO  MemoryConsistencyError:22 - Creating new thread!
+2018-08-21 07:38:41 INFO  MemoryConsistencyError:40 - Starting new thread!
+2018-08-21 07:38:42 INFO  MemoryConsistencyError:50 - Sleeping the thread
+2018-08-21 07:38:43 INFO  MemoryConsistencyError:54 - Finishing main thread...
+2018-08-21 07:38:53 INFO  MemoryConsistencyError:22 - Creating new thread!
+2018-08-21 07:38:53 INFO  MemoryConsistencyError:40 - Starting new thread!
+2018-08-21 07:38:54 INFO  MemoryConsistencyError:50 - Sleeping the thread
+2018-08-21 07:38:55 INFO  MemoryConsistencyError:54 - Finishing main thread...
+2018-08-21 07:39:11 INFO  MemoryConsistencyError:22 - Creating new thread!
+2018-08-21 07:39:11 INFO  MemoryConsistencyError:40 - Starting new thread!
+2018-08-21 07:39:12 INFO  MemoryConsistencyError:50 - Sleeping the thread
+2018-08-21 07:39:13 INFO  MemoryConsistencyError:54 - Finishing main thread...
+2018-08-21 07:40:01 INFO  MemoryConsistencyError:22 - Creating new thread!
+2018-08-21 07:40:01 INFO  MemoryConsistencyError:40 - Starting new thread!
+2018-08-21 07:40:02 INFO  MemoryConsistencyError:50 - Sleeping the thread
+2018-08-21 07:40:03 INFO  MemoryConsistencyError:54 - Finishing main thread...
+2018-08-21 08:12:21 INFO  VolatileMemoryConsistencyError:22 - Creating new thread!
+2018-08-21 08:12:21 INFO  VolatileMemoryConsistencyError:40 - Starting new thread!
+2018-08-21 08:12:22 INFO  VolatileMemoryConsistencyError:50 - Sleeping the thread
+2018-08-21 08:12:22 DEBUG VolatileMemoryConsistencyError:28 - Hello Thread!
+2018-08-21 08:12:23 INFO  VolatileMemoryConsistencyError:54 - Finishing main thread...
+2018-08-21 08:12:23 DEBUG VolatileMemoryConsistencyError:32 - Good Bye! This is the End ...
+2018-08-21 08:12:37 INFO  VolatileMemoryConsistencyError:22 - Creating new thread!
+2018-08-21 08:12:37 INFO  VolatileMemoryConsistencyError:40 - Starting new thread!
+2018-08-21 08:12:39 INFO  VolatileMemoryConsistencyError:50 - Sleeping the thread
+2018-08-21 08:12:39 DEBUG VolatileMemoryConsistencyError:28 - Hello Thread!
+2018-08-21 08:12:40 INFO  VolatileMemoryConsistencyError:54 - Finishing main thread...
+2018-08-21 08:12:40 DEBUG VolatileMemoryConsistencyError:32 - Good Bye! This is the End ...
+2018-08-21 08:13:18 INFO  RaceCondition:33 - Final count is : 999
+2018-08-21 08:13:26 INFO  RaceCondition:33 - Final count is : 1000
+2018-08-21 08:13:30 INFO  RaceCondition:33 - Final count is : 996
+2018-08-21 08:13:40 INFO  SynchronizedRaceCondition:33 - Final count is : 1000
+2018-08-21 08:13:46 INFO  SynchronizedRaceCondition:33 - Final count is : 1000
+2018-08-21 08:22:57 INFO  AtomicIntegerExample:26 - Creating a executor...
+2018-08-21 08:22:57 INFO  AtomicIntegerExample:33 - Creating a atomic class.
+2018-08-21 08:22:57 INFO  AtomicIntegerExample:41 - Submit threads.
+2018-08-21 08:22:58 INFO  AtomicIntegerExample:52 - Shutdown executor.
+2018-08-21 08:22:58 INFO  AtomicIntegerExample:56 - Final Count is 1000 
+2018-08-21 08:23:04 INFO  AtomicIntegerExample:26 - Creating a executor...
+2018-08-21 08:23:04 INFO  AtomicIntegerExample:33 - Creating a atomic class.
+2018-08-21 08:23:04 INFO  AtomicIntegerExample:41 - Submit threads.
+2018-08-21 08:23:04 INFO  AtomicIntegerExample:52 - Shutdown executor.
+2018-08-21 08:23:04 INFO  AtomicIntegerExample:56 - Final Count is 1000 
+2018-08-21 08:29:54 INFO  ReentrantLockExample:26 - Creating a executor...
+2018-08-21 08:29:54 INFO  ReentrantLockExample:34 - Creating a lock counter class...
+2018-08-21 08:29:54 INFO  ReentrantLockExample:42 - Submit a thread...
+2018-08-21 08:29:55 INFO  ReentrantLockExample:50 - Submit a threads...
+2018-08-21 08:29:55 INFO  ReentrantLockExample:61 - Shutdown the executor...
+2018-08-21 08:29:55 INFO  ReentrantLockExample:65 - Final count is 11 
+2018-08-21 08:31:15 INFO  ReentrantLockExample:26 - Creating a executor...
+2018-08-21 08:31:15 INFO  ReentrantLockExample:34 - Creating a lock counter class...
+2018-08-21 08:31:15 INFO  ReentrantLockExample:42 - Submit a thread...
+2018-08-21 08:31:15 INFO  ReentrantLockExample:50 - Submit a threads...
+2018-08-21 08:31:15 INFO  ReentrantLockExample:61 - Shutdown the executor...
+2018-08-21 08:31:15 INFO  ReentrantLockExample:65 - Final count is 11 
+2018-08-21 08:39:55 INFO  ReentrantLockMethodsExample:23 - Creating a executor...
+2018-08-21 08:39:55 INFO  ReentrantLockMethodsExample:31 - Creating a lock counter class...
+2018-08-21 08:39:55 INFO  ReentrantLockMethodsExample:39 - Submit a thread...
+2018-08-21 08:39:55 DEBUG ReentrantLockMethodsCounter:92 - IsLocked : false
+2018-08-21 08:39:55 DEBUG ReentrantLockMethodsCounter:97 - IsHeldByCurrentThread : false
+2018-08-21 08:39:55 DEBUG ReentrantLockMethodsCounter:109 - Lock Acquired : true
+2018-08-21 08:39:55 INFO  ReentrantLockMethodsExample:51 - Submit a threads...
+2018-08-21 08:39:55 INFO  ReentrantLockMethodsExample:63 - Shutdown the executor...
+2018-08-21 08:39:55 DEBUG ReentrantLockMethodsCounter:92 - IsLocked : true
+2018-08-21 08:39:55 DEBUG ReentrantLockMethodsCounter:97 - IsHeldByCurrentThread : false
+2018-08-21 08:39:56 DEBUG ReentrantLockMethodsCounter:109 - Lock Acquired : false
+2018-08-21 08:39:56 DEBUG ReentrantLockMethodsExample:54 - IncrementCount (Second Thread) : 0 
+2018-08-21 08:39:57 DEBUG ReentrantLockMethodsExample:42 - IncrementCount (First Thread) : 1
+2018-08-21 08:40:34 INFO  ReentrantLockExample:26 - Creating a executor...
+2018-08-21 08:40:34 INFO  ReentrantLockExample:34 - Creating a lock counter class...
+2018-08-21 08:40:34 INFO  ReentrantLockExample:42 - Submit a thread...
+2018-08-21 08:40:34 INFO  ReentrantLockExample:50 - Submit a threads...
+2018-08-21 08:40:34 INFO  ReentrantLockExample:61 - Shutdown the executor...
+2018-08-21 08:40:34 INFO  ReentrantLockExample:65 - Final count is 11 
+2018-08-21 08:40:38 INFO  ReentrantLockExample:26 - Creating a executor...
+2018-08-21 08:40:38 INFO  ReentrantLockExample:34 - Creating a lock counter class...
+2018-08-21 08:40:38 INFO  ReentrantLockExample:42 - Submit a thread...
+2018-08-21 08:40:38 INFO  ReentrantLockExample:50 - Submit a threads...
+2018-08-21 08:40:38 INFO  ReentrantLockExample:61 - Shutdown the executor...
+2018-08-21 08:40:38 INFO  ReentrantLockExample:65 - Final count is 11 
+2018-08-21 08:45:44 INFO  ReadWriteLockExample:25 - Creating a executor...
+2018-08-21 08:45:44 INFO  ReadWriteLockExample:33 - Creating a lock counter class...
+2018-08-21 08:45:44 INFO  ReadWriteLockExample:41 - Create a read thread...
+2018-08-21 08:45:45 INFO  ReadWriteLockExample:50 - Create a write thread...
+2018-08-21 08:45:45 INFO  ReadWriteLockExample:59 - Submit a read threads...
+2018-08-21 08:45:45 DEBUG ReadWriteLockExample:42 - pool-1-thread-1 Read Task : 0
+2018-08-21 08:45:45 DEBUG ReadWriteLockExample:42 - pool-1-thread-2 Read Task : 0
+2018-08-21 08:45:45 INFO  ReadWriteLockExample:66 - Submit a write thread...
+2018-08-21 08:45:45 INFO  ReadWriteLockExample:72 - Submit a read threads...
+2018-08-21 08:45:45 DEBUG ReadWriteLockExample:51 - pool-1-thread-3 Write Task : 1
+2018-08-21 08:45:45 DEBUG ReadWriteLockExample:42 - pool-1-thread-2 Read Task : 1
+2018-08-21 08:45:45 DEBUG ReadWriteLockExample:42 - pool-1-thread-1 Read Task : 1
+2018-08-21 08:45:45 INFO  ReadWriteLockExample:81 - Shutdown the executor...
+2018-08-21 08:47:50 INFO  ReadWriteLockExample:25 - Creating a executor...
+2018-08-21 08:47:50 INFO  ReadWriteLockExample:33 - Creating a lock counter class...
+2018-08-21 08:47:50 INFO  ReadWriteLockExample:41 - Create a read thread...
+2018-08-21 08:47:50 INFO  ReadWriteLockExample:50 - Create a write thread...
+2018-08-21 08:47:50 INFO  ReadWriteLockExample:59 - Submit a read threads...
+2018-08-21 08:47:50 DEBUG ReadWriteLockExample:42 - pool-1-thread-1 Read Task : 0
+2018-08-21 08:47:50 DEBUG ReadWriteLockExample:42 - pool-1-thread-2 Read Task : 0
+2018-08-21 08:47:50 INFO  ReadWriteLockExample:66 - Submit a write thread...
+2018-08-21 08:47:50 INFO  ReadWriteLockExample:72 - Submit a read threads...
+2018-08-21 08:47:50 DEBUG ReadWriteLockExample:51 - pool-1-thread-3 Write Task : 1
+2018-08-21 08:47:50 DEBUG ReadWriteLockExample:42 - pool-1-thread-2 Read Task : 1
+2018-08-21 08:47:50 DEBUG ReadWriteLockExample:42 - pool-1-thread-1 Read Task : 1
+2018-08-21 08:47:50 INFO  ReadWriteLockExample:81 - Shutdown the executor...
+2018-08-21 09:01:56 INFO  FutureAndCallableExample:22 - Creating a executor...
+2018-08-21 09:01:56 INFO  FutureAndCallableExample:30 - Creating a callable...
+2018-08-21 09:01:56 INFO  FutureAndCallableExample:44 - Submitting Callable
+2018-08-21 09:01:56 WARN  FutureAndCallableExample:47 - Do something else while callable is getting executed
+2018-08-21 09:01:56 DEBUG FutureAndCallableExample:34 - Entered Callable
+2018-08-21 09:01:56 INFO  FutureAndCallableExample:48 - Retrieve the result of the future
+2018-08-21 09:02:00 INFO  FutureAndCallableExample:54 - Result from callable is Answers from Callable
+2018-08-21 09:02:00 INFO  FutureAndCallableExample:61 - Shutdown executor.
+2018-08-21 09:02:35 INFO  FutureAndCallableExample:22 - Creating a executor...
+2018-08-21 09:02:35 INFO  FutureAndCallableExample:30 - Creating a callable...
+2018-08-21 09:02:36 INFO  FutureAndCallableExample:44 - Submitting Callable.
+2018-08-21 09:02:36 DEBUG FutureAndCallableExample:34 - Entered Callable
+2018-08-21 09:02:36 WARN  FutureAndCallableExample:47 - Do something else while callable is getting executed.
+2018-08-21 09:02:36 INFO  FutureAndCallableExample:48 - Retrieving the result of the future...
+2018-08-21 09:02:40 INFO  FutureAndCallableExample:54 - Result from callable is "Answers from Callable"
+2018-08-21 09:02:40 INFO  FutureAndCallableExample:61 - Shutdown executor.
+2018-08-21 09:09:09 INFO  FutureCancelExample:22 - Creating a executor...
+2018-08-21 09:09:09 INFO  FutureCancelExample:30 - Creating a callable...
+2018-08-21 09:09:09 INFO  FutureCancelExample:43 - Submitting Callable.
+2018-08-21 09:09:09 INFO  FutureCancelExample:52 - Checking the Callable.
+2018-08-21 09:09:09 DEBUG FutureCancelExample:55 - Task is still not done...
+2018-08-21 09:09:09 DEBUG FutureCancelExample:55 - Task is still not done...
+2018-08-21 09:09:10 DEBUG FutureCancelExample:55 - Task is still not done...
+2018-08-21 09:09:10 DEBUG FutureCancelExample:55 - Task is still not done...
+2018-08-21 09:09:10 DEBUG FutureCancelExample:55 - Task is still not done...
+2018-08-21 09:09:10 WARN  FutureCancelExample:64 - cancelling task !!!
+2018-08-21 09:09:10 INFO  FutureCancelExample:74 - Checking if future is cancelled before retrieving the result...
+2018-08-21 09:09:10 WARN  FutureCancelExample:83 - Task was cancelled !!!
+2018-08-21 09:09:10 INFO  FutureCancelExample:91 - Shutdown executor.
+2018-08-21 09:13:42 INFO  FutureIsDoneExample:22 - Creating a executor...
+2018-08-21 09:13:42 INFO  FutureIsDoneExample:30 - Create and submit a callable...
+2018-08-21 09:13:42 INFO  FutureIsDoneExample:42 - Checking if future is cancelled before retrieving the result...
+2018-08-21 09:13:42 DEBUG FutureIsDoneExample:45 - Task is still not done...
+2018-08-21 09:13:42 DEBUG FutureIsDoneExample:45 - Task is still not done...
+2018-08-21 09:13:43 DEBUG FutureIsDoneExample:45 - Task is still not done...
+2018-08-21 09:13:43 DEBUG FutureIsDoneExample:45 - Task is still not done...
+2018-08-21 09:13:43 DEBUG FutureIsDoneExample:45 - Task is still not done...
+2018-08-21 09:13:43 DEBUG FutureIsDoneExample:45 - Task is still not done...
+2018-08-21 09:13:43 DEBUG FutureIsDoneExample:45 - Task is still not done...
+2018-08-21 09:13:44 DEBUG FutureIsDoneExample:45 - Task is still not done...
+2018-08-21 09:13:44 DEBUG FutureIsDoneExample:45 - Task is still not done...
+2018-08-21 09:13:44 DEBUG FutureIsDoneExample:45 - Task is still not done...
+2018-08-21 09:13:44 INFO  FutureIsDoneExample:49 - Task completed! Retrieving the result
+2018-08-21 09:13:44 INFO  FutureIsDoneExample:51 - Resulat got: Answer from Callable
+2018-08-21 09:13:44 INFO  FutureIsDoneExample:58 - Shutdown executor.
+2018-08-21 09:20:45 INFO  InvokeAllExample:25 - Creating a executor...
+2018-08-21 09:20:45 INFO  InvokeAllExample:32 - Create callable objects...
+2018-08-21 09:20:45 INFO  InvokeAllExample:55 - Create callable objects...
+2018-08-21 09:20:50 INFO  InvokeAllExample:64 - Result of Task1
+2018-08-21 09:20:50 INFO  InvokeAllExample:64 - Result of Task2
+2018-08-21 09:20:50 INFO  InvokeAllExample:64 - Result of Task3
+2018-08-21 09:20:50 INFO  InvokeAllExample:71 - Shutdown executor.
+2018-08-21 09:22:34 INFO  InvokeAllExample:25 - Creating a executor...
+2018-08-21 09:22:34 INFO  InvokeAllExample:32 - Create callable objects...
+2018-08-21 09:22:34 INFO  InvokeAllExample:55 - Submit callable objects...
+2018-08-21 09:22:39 INFO  InvokeAllExample:64 - Shutdown executor.
+2018-08-21 09:22:39 INFO  InvokeAllExample:70 - Result of Task1
+2018-08-21 09:22:39 INFO  InvokeAllExample:70 - Result of Task2
+2018-08-21 09:22:39 INFO  InvokeAllExample:70 - Result of Task3
+2018-08-21 09:22:39 INFO  InvokeAllExample:77 - Shutdown executor.
+2018-08-21 09:25:24 INFO  InvokeAnyExample:23 - Creating a executor...
+2018-08-21 09:25:24 INFO  InvokeAnyExample:31 - Create callable objects...
+2018-08-21 09:25:24 INFO  InvokeAnyExample:54 - Submit callable objects...
+2018-08-21 09:25:25 INFO  InvokeAnyExample:56 - The response of all tasks is $s 
+2018-08-21 09:25:25 INFO  InvokeAnyExample:63 - Shutdown executor.
+2018-08-21 09:25:42 INFO  InvokeAnyExample:23 - Creating a executor...
+2018-08-21 09:25:42 INFO  InvokeAnyExample:31 - Create callable objects...
+2018-08-21 09:25:42 INFO  InvokeAnyExample:54 - Submit callable objects...
+2018-08-21 09:25:43 INFO  InvokeAnyExample:56 - The response of all tasks is Result of Task2 
+2018-08-21 09:25:43 INFO  InvokeAnyExample:63 - Shutdown executor.
+2018-08-21 09:47:49 INFO  Main:20 - Creating new customers..
+2018-08-21 09:47:49 INFO  Main:29 - Creating new customers..
+2018-08-21 09:47:49 INFO  Main:41 - Starting threads customers..
+2018-08-21 09:47:49 DEBUG BankAccount:44 - Mare Simpson depositing the amount 100 updated balance =  100
+2018-08-21 09:47:49 DEBUG BankAccount:44 - Homer Simpson depositing the amount 100 updated balance =  100
+2018-08-21 09:47:49 DEBUG BankAccount:49 - Mare Simpson trying to withdraw 200 from the account 123456
+2018-08-21 09:47:49 DEBUG BankAccount:49 - Homer Simpson trying to withdraw 200 from the account 123456
+2018-08-21 09:47:49 WARN  BankAccount:53 - OOPS, NO BALANCE LEFT TO WITHDRAW FOR Mare Simpson
+2018-08-21 09:47:49 WARN  BankAccount:53 - OOPS, NO BALANCE LEFT TO WITHDRAW FOR Homer Simpson
+2018-08-21 09:48:54 INFO  MainSafe:20 - Creating new customers..
+2018-08-21 09:48:54 INFO  MainSafe:29 - Creating new customers..
+2018-08-21 09:48:54 INFO  MainSafe:41 - Starting threads customers..
+2018-08-21 09:48:54 DEBUG BankAccount:44 - Homer Simpson depositing the amount 100 updated balance =  100
+2018-08-21 09:48:54 DEBUG BankAccount:49 - Homer Simpson trying to withdraw 200 from the account 123456
+2018-08-21 09:48:54 WARN  BankAccount:53 - OOPS, NO BALANCE LEFT TO WITHDRAW FOR Homer Simpson
+2018-08-21 09:48:54 DEBUG BankAccount:44 - Mare Simpson depositing the amount 100 updated balance =  200
+2018-08-21 09:48:54 DEBUG BankAccount:49 - Mare Simpson trying to withdraw 200 from the account 123456
+2018-08-21 09:48:54 DEBUG BankAccount:59 - Mare Simpson successfully withdraw the amount. balance left =  0
+2018-08-21 09:56:55 INFO  MainSafe:20 - Creating new customers..
+2018-08-21 09:56:55 INFO  MainSafe:29 - Creating new customers..
+2018-08-21 09:56:55 INFO  MainSafe:38 - Starting threads customers..
+2018-08-21 09:56:55 DEBUG BankAccountSafe:41 - 100 deposited by : Homer Simpson, updated balance: 100
+2018-08-21 09:56:55 DEBUG BankAccountSafe:41 - 100 deposited by : Marge Simpson, updated balance: 100
+2018-08-21 09:56:55 DEBUG BankAccountSafe:46 - Homer Simpson is trying to withdraw amount: 200 from account: 123456
+2018-08-21 09:56:55 DEBUG BankAccountSafe:46 - Marge Simpson is trying to withdraw amount: 200 from account: 123456
+2018-08-21 09:56:55 WARN  BankAccountSafe:50 - not enough balance in account: 123456 to withdraw
+2018-08-21 09:56:55 WARN  BankAccountSafe:50 - not enough balance in account: 123456 to withdraw
+2018-08-21 09:56:55 WARN  BankAccountSafe:51 - returning zero to: Marge Simpson
+2018-08-21 09:56:55 WARN  BankAccountSafe:51 - returning zero to: Homer Simpson
+2018-08-21 09:57:35 INFO  MainSafe:20 - Creating new customers..
+2018-08-21 09:57:35 INFO  MainSafe:29 - Creating new customers..
+2018-08-21 09:57:35 INFO  MainSafe:38 - Starting threads customers..
+2018-08-21 09:57:35 DEBUG BankAccountSafe:41 - 100 deposited by : Marge Simpson, updated balance: 100
+2018-08-21 09:57:35 DEBUG BankAccountSafe:41 - 100 deposited by : Homer Simpson, updated balance: 100
+2018-08-21 09:57:35 DEBUG BankAccountSafe:46 - Marge Simpson is trying to withdraw amount: 200 from account: 123456
+2018-08-21 09:57:35 DEBUG BankAccountSafe:46 - Homer Simpson is trying to withdraw amount: 200 from account: 123456
+2018-08-21 09:57:35 WARN  BankAccountSafe:50 - not enough balance in account: 123456 to withdraw
+2018-08-21 09:57:35 WARN  BankAccountSafe:50 - not enough balance in account: 123456 to withdraw
+2018-08-21 09:57:35 WARN  BankAccountSafe:51 - returning zero to: Homer Simpson
+2018-08-21 09:57:35 WARN  BankAccountSafe:51 - returning zero to: Marge Simpson
+2018-08-21 09:58:15 INFO  MainSafe:20 - Creating new customers..
+2018-08-21 09:58:15 INFO  MainSafe:29 - Creating new customers..
+2018-08-21 09:58:15 INFO  MainSafe:41 - Starting threads customers..
+2018-08-21 09:58:15 DEBUG BankAccount:44 - Mare Simpson depositing the amount 100 updated balance =  100
+2018-08-21 09:58:15 DEBUG BankAccount:49 - Mare Simpson trying to withdraw 200 from the account 123456
+2018-08-21 09:58:15 WARN  BankAccount:53 - OOPS, NO BALANCE LEFT TO WITHDRAW FOR Mare Simpson
+2018-08-21 09:58:15 DEBUG BankAccount:44 - Homer Simpson depositing the amount 100 updated balance =  200
+2018-08-21 09:58:15 DEBUG BankAccount:49 - Homer Simpson trying to withdraw 200 from the account 123456
+2018-08-21 09:58:15 DEBUG BankAccount:59 - Homer Simpson successfully withdraw the amount. balance left =  0
+2018-08-21 09:59:06 INFO  MainSafe:20 - Creating new customers..
+2018-08-21 09:59:06 INFO  MainSafe:29 - Creating new customers..
+2018-08-21 09:59:06 INFO  MainSafe:38 - Starting threads customers..
+2018-08-21 09:59:06 DEBUG BankAccountSafe:41 - 100 deposited by : Homer Simpson, updated balance: 100
+2018-08-21 09:59:06 DEBUG BankAccountSafe:41 - 100 deposited by : Marge Simpson, updated balance: 100
+2018-08-21 09:59:06 DEBUG BankAccountSafe:46 - Homer Simpson is trying to withdraw amount: 200 from account: 123456
+2018-08-21 09:59:06 DEBUG BankAccountSafe:46 - Marge Simpson is trying to withdraw amount: 200 from account: 123456
+2018-08-21 09:59:06 WARN  BankAccountSafe:50 - not enough balance in account: 123456 to withdraw
+2018-08-21 09:59:06 WARN  BankAccountSafe:50 - not enough balance in account: 123456 to withdraw
+2018-08-21 09:59:06 WARN  BankAccountSafe:51 - returning zero to: Homer Simpson
+2018-08-21 09:59:06 WARN  BankAccountSafe:51 - returning zero to: Marge Simpson
+2018-08-21 13:15:25 INFO  TrafficLight:23 - Creating new thread...
+2018-08-21 13:15:25 INFO  TrafficLight:57 - Executing threads...
+2018-08-21 13:15:25 DEBUG TrafficLight:39 - Executing long-running action for 8 seconds... #1
+2018-08-21 13:15:25 DEBUG TrafficLight:39 - Executing long-running action for 12 seconds... #2
+2018-08-21 13:15:25 DEBUG TrafficLight:39 - Executing long-running action for 2 seconds... #0
+2018-08-21 13:15:27 DEBUG TrafficLight:42 - Done with #0!
+2018-08-21 13:15:27 DEBUG TrafficLight:39 - Executing long-running action for 5 seconds... #3
+2018-08-21 13:15:32 DEBUG TrafficLight:42 - Done with #3!
+2018-08-21 13:15:32 DEBUG TrafficLight:39 - Executing long-running action for 1 seconds... #4
+2018-08-21 13:15:33 DEBUG TrafficLight:42 - Done with #1!
+2018-08-21 13:15:33 DEBUG TrafficLight:39 - Executing long-running action for 8 seconds... #5
+2018-08-21 13:15:33 DEBUG TrafficLight:42 - Done with #4!
+2018-08-21 13:15:33 DEBUG TrafficLight:39 - Executing long-running action for 3 seconds... #6
+2018-08-21 13:15:36 DEBUG TrafficLight:42 - Done with #6!
+2018-08-21 13:15:36 DEBUG TrafficLight:39 - Executing long-running action for 13 seconds... #7
+2018-08-21 13:15:37 DEBUG TrafficLight:42 - Done with #2!
+2018-08-21 13:15:37 DEBUG TrafficLight:39 - Executing long-running action for 6 seconds... #8
+2018-08-21 13:15:41 DEBUG TrafficLight:42 - Done with #5!
+2018-08-21 13:15:41 DEBUG TrafficLight:39 - Executing long-running action for 12 seconds... #9
+2018-08-21 13:15:43 DEBUG TrafficLight:42 - Done with #8!
+2018-08-21 13:15:49 DEBUG TrafficLight:42 - Done with #7!
+2018-08-21 13:15:53 DEBUG TrafficLight:42 - Done with #9!
+2018-08-21 13:32:28 DEBUG Race:33 - And the horses are stepping up to the gate...
+2018-08-21 13:45:26 DEBUG WorkerThread:26 - pool-1-thread-1 Start. Command = ls -a0
+2018-08-21 13:45:26 DEBUG WorkerThread:26 - pool-1-thread-3 Start. Command = ls -a2
+2018-08-21 13:45:26 DEBUG WorkerThread:26 - pool-1-thread-2 Start. Command = ls -a1
+2018-08-21 13:45:26 DEBUG WorkerThread:26 - pool-1-thread-5 Start. Command = ls -a4
+2018-08-21 13:45:26 DEBUG WorkerThread:26 - pool-1-thread-4 Start. Command = ls -a3
+2018-08-21 13:45:31 DEBUG WorkerThread:28 - pool-1-thread-1 End.
+2018-08-21 13:45:31 DEBUG WorkerThread:28 - pool-1-thread-3 End.
+2018-08-21 13:45:31 DEBUG WorkerThread:28 - pool-1-thread-2 End.
+2018-08-21 13:45:31 DEBUG WorkerThread:26 - pool-1-thread-1 Start. Command = ls -a6
+2018-08-21 13:45:31 DEBUG WorkerThread:26 - pool-1-thread-3 Start. Command = ls -a5
+2018-08-21 13:45:31 DEBUG WorkerThread:26 - pool-1-thread-2 Start. Command = ls -a7
+2018-08-21 13:45:31 DEBUG WorkerThread:28 - pool-1-thread-4 End.
+2018-08-21 13:45:31 DEBUG WorkerThread:28 - pool-1-thread-5 End.
+2018-08-21 13:45:31 DEBUG WorkerThread:26 - pool-1-thread-4 Start. Command = ls -a8
+2018-08-21 13:45:31 DEBUG WorkerThread:26 - pool-1-thread-5 Start. Command = ls -a9
+2018-08-21 13:45:36 DEBUG WorkerThread:28 - pool-1-thread-3 End.
+2018-08-21 13:45:36 DEBUG WorkerThread:28 - pool-1-thread-5 End.
+2018-08-21 13:45:36 DEBUG WorkerThread:28 - pool-1-thread-4 End.
+2018-08-21 13:45:36 DEBUG WorkerThread:28 - pool-1-thread-2 End.
+2018-08-21 13:45:36 DEBUG WorkerThread:28 - pool-1-thread-1 End.
+2018-08-21 13:53:49 DEBUG WorkerThread:26 - pool-1-thread-1 Start. Command = cmd0
+2018-08-21 13:53:49 DEBUG MyMonitorThread:42 - [Monitor] [0/2] Active: 0, Completed: 0, Task: 0, isShutdown: false, isTerminated: false
+2018-08-21 13:53:49 DEBUG RejectedExecutionHandlerImpl:20 - cmd6 was rejected
+2018-08-21 13:53:49 DEBUG WorkerThread:26 - pool-1-thread-4 Start. Command = cmd5
+2018-08-21 13:53:49 DEBUG WorkerThread:26 - pool-1-thread-3 Start. Command = cmd4
+2018-08-21 13:53:49 DEBUG WorkerThread:26 - pool-1-thread-2 Start. Command = cmd1
+2018-08-21 13:53:49 DEBUG RejectedExecutionHandlerImpl:20 - cmd7 was rejected
+2018-08-21 13:53:49 DEBUG RejectedExecutionHandlerImpl:20 - cmd8 was rejected
+2018-08-21 13:53:49 DEBUG RejectedExecutionHandlerImpl:20 - cmd9 was rejected
+2018-08-21 13:53:52 DEBUG MyMonitorThread:42 - [Monitor] [4/2] Active: 4, Completed: 0, Task: 6, isShutdown: false, isTerminated: false
+2018-08-21 13:53:54 DEBUG WorkerThread:28 - pool-1-thread-1 End.
+2018-08-21 13:53:54 DEBUG WorkerThread:26 - pool-1-thread-1 Start. Command = cmd2
+2018-08-21 13:53:54 DEBUG WorkerThread:28 - pool-1-thread-3 End.
+2018-08-21 13:53:54 DEBUG WorkerThread:26 - pool-1-thread-3 Start. Command = cmd3
+2018-08-21 13:53:54 DEBUG WorkerThread:28 - pool-1-thread-4 End.
+2018-08-21 13:53:54 DEBUG WorkerThread:28 - pool-1-thread-2 End.
+2018-08-21 13:53:55 DEBUG MyMonitorThread:42 - [Monitor] [4/2] Active: 2, Completed: 4, Task: 6, isShutdown: false, isTerminated: false
+2018-08-21 13:53:58 DEBUG MyMonitorThread:42 - [Monitor] [4/2] Active: 2, Completed: 4, Task: 6, isShutdown: false, isTerminated: false
+2018-08-21 13:53:59 DEBUG WorkerThread:28 - pool-1-thread-1 End.
+2018-08-21 13:53:59 DEBUG WorkerThread:28 - pool-1-thread-3 End.
+2018-08-21 13:54:01 DEBUG MyMonitorThread:42 - [Monitor] [4/2] Active: 0, Completed: 6, Task: 6, isShutdown: false, isTerminated: false
+2018-08-21 13:54:04 DEBUG MyMonitorThread:42 - [Monitor] [4/2] Active: 0, Completed: 6, Task: 6, isShutdown: false, isTerminated: false
+2018-08-21 13:54:07 DEBUG MyMonitorThread:42 - [Monitor] [2/2] Active: 0, Completed: 6, Task: 6, isShutdown: false, isTerminated: false
+2018-08-21 13:54:10 DEBUG MyMonitorThread:42 - [Monitor] [2/2] Active: 0, Completed: 6, Task: 6, isShutdown: false, isTerminated: false
+2018-08-21 13:54:13 DEBUG MyMonitorThread:42 - [Monitor] [2/2] Active: 0, Completed: 6, Task: 6, isShutdown: false, isTerminated: false
+2018-08-21 13:54:16 DEBUG MyMonitorThread:42 - [Monitor] [2/2] Active: 0, Completed: 6, Task: 6, isShutdown: false, isTerminated: false
+2018-08-21 13:54:19 DEBUG MyMonitorThread:42 - [Monitor] [0/2] Active: 0, Completed: 6, Task: 6, isShutdown: true, isTerminated: true
+2018-08-21 13:54:22 DEBUG MyMonitorThread:42 - [Monitor] [0/2] Active: 0, Completed: 6, Task: 6, isShutdown: true, isTerminated: true
+2018-08-21 13:59:59 DEBUG WorkerThread:26 - pool-1-thread-1 Start. Command = cmd0
+2018-08-21 13:59:59 DEBUG MyMonitorThread:42 - [Monitor] [0/2] Active: 0, Completed: 0, Task: 0, isShutdown: false, isTerminated: false
+2018-08-21 13:59:59 ERROR RejectedExecutionHandlerImpl:20 - cmd6 was rejected
+2018-08-21 13:59:59 DEBUG WorkerThread:26 - pool-1-thread-4 Start. Command = cmd5
+2018-08-21 13:59:59 DEBUG WorkerThread:26 - pool-1-thread-2 Start. Command = cmd1
+2018-08-21 13:59:59 DEBUG WorkerThread:26 - pool-1-thread-3 Start. Command = cmd4
+2018-08-21 13:59:59 ERROR RejectedExecutionHandlerImpl:20 - cmd7 was rejected
+2018-08-21 13:59:59 ERROR RejectedExecutionHandlerImpl:20 - cmd8 was rejected
+2018-08-21 13:59:59 ERROR RejectedExecutionHandlerImpl:20 - cmd9 was rejected
+2018-08-21 14:00:02 DEBUG MyMonitorThread:42 - [Monitor] [4/2] Active: 4, Completed: 0, Task: 6, isShutdown: false, isTerminated: false
+2018-08-21 14:00:04 DEBUG WorkerThread:28 - pool-1-thread-1 End.
+2018-08-21 14:00:04 DEBUG WorkerThread:26 - pool-1-thread-1 Start. Command = cmd2
+2018-08-21 14:00:04 DEBUG WorkerThread:28 - pool-1-thread-4 End.
+2018-08-21 14:00:04 DEBUG WorkerThread:28 - pool-1-thread-3 End.
+2018-08-21 14:00:04 DEBUG WorkerThread:28 - pool-1-thread-2 End.
+2018-08-21 14:00:04 DEBUG WorkerThread:26 - pool-1-thread-4 Start. Command = cmd3
+2018-08-21 14:00:05 DEBUG MyMonitorThread:42 - [Monitor] [4/2] Active: 2, Completed: 4, Task: 6, isShutdown: false, isTerminated: false
+2018-08-21 14:00:08 DEBUG MyMonitorThread:42 - [Monitor] [4/2] Active: 2, Completed: 4, Task: 6, isShutdown: false, isTerminated: false
