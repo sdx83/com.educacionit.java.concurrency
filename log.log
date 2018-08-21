@@ -617,3 +617,89 @@
 2018-08-21 14:00:04 DEBUG WorkerThread:26 - pool-1-thread-4 Start. Command = cmd3
 2018-08-21 14:00:05 DEBUG MyMonitorThread:42 - [Monitor] [4/2] Active: 2, Completed: 4, Task: 6, isShutdown: false, isTerminated: false
 2018-08-21 14:00:08 DEBUG MyMonitorThread:42 - [Monitor] [4/2] Active: 2, Completed: 4, Task: 6, isShutdown: false, isTerminated: false
+2018-08-21 15:00:23 INFO  VolatileTest:21 - Starting threads...
+2018-08-21 15:00:23 DEBUG VolatileTest:69 - Incrementing MY_INT to 1
+2018-08-21 15:00:23 DEBUG VolatileTest:45 - Got Change for MY_INT : 1
+2018-08-21 15:00:24 DEBUG VolatileTest:69 - Incrementing MY_INT to 2
+2018-08-21 15:00:24 DEBUG VolatileTest:45 - Got Change for MY_INT : 2
+2018-08-21 15:00:24 DEBUG VolatileTest:69 - Incrementing MY_INT to 3
+2018-08-21 15:00:24 DEBUG VolatileTest:45 - Got Change for MY_INT : 3
+2018-08-21 15:00:25 DEBUG VolatileTest:69 - Incrementing MY_INT to 4
+2018-08-21 15:00:25 DEBUG VolatileTest:45 - Got Change for MY_INT : 4
+2018-08-21 15:00:25 DEBUG VolatileTest:69 - Incrementing MY_INT to 5
+2018-08-21 15:00:25 DEBUG VolatileTest:45 - Got Change for MY_INT : 5
+2018-08-21 15:01:22 INFO  VolatileTest:21 - Starting threads...
+2018-08-21 15:01:22 DEBUG VolatileTest:69 - Incrementing MY_INT to 1
+2018-08-21 15:01:22 DEBUG VolatileTest:45 - Got Change for MY_INT : 1
+2018-08-21 15:01:22 DEBUG VolatileTest:69 - Incrementing MY_INT to 2
+2018-08-21 15:01:23 DEBUG VolatileTest:69 - Incrementing MY_INT to 3
+2018-08-21 15:01:23 DEBUG VolatileTest:69 - Incrementing MY_INT to 4
+2018-08-21 15:01:24 DEBUG VolatileTest:69 - Incrementing MY_INT to 5
+2018-08-21 15:01:35 INFO  VolatileTest:21 - Starting threads...
+2018-08-21 15:01:35 DEBUG VolatileTest:69 - Incrementing MY_INT to 1
+2018-08-21 15:01:35 DEBUG VolatileTest:45 - Got Change for MY_INT : 1
+2018-08-21 15:01:36 DEBUG VolatileTest:69 - Incrementing MY_INT to 2
+2018-08-21 15:01:36 DEBUG VolatileTest:69 - Incrementing MY_INT to 3
+2018-08-21 15:01:37 DEBUG VolatileTest:69 - Incrementing MY_INT to 4
+2018-08-21 15:01:38 DEBUG VolatileTest:69 - Incrementing MY_INT to 5
+2018-08-21 15:38:45 INFO  SemaphoreTest:73 - Total available Semaphore permits : 4
+2018-08-21 15:38:45 INFO  SemaphoreTest:31 - A : acquiring lock...
+2018-08-21 15:38:45 INFO  SemaphoreTest:31 - D : acquiring lock...
+2018-08-21 15:38:45 INFO  SemaphoreTest:32 - D : available Semaphore permits now: 4
+2018-08-21 15:38:45 INFO  SemaphoreTest:36 - D : got the permit!
+2018-08-21 15:38:45 INFO  SemaphoreTest:31 - E : acquiring lock...
+2018-08-21 15:38:45 INFO  SemaphoreTest:32 - E : available Semaphore permits now: 3
+2018-08-21 15:38:45 INFO  SemaphoreTest:32 - A : available Semaphore permits now: 4
+2018-08-21 15:38:45 INFO  SemaphoreTest:31 - C : acquiring lock...
+2018-08-21 15:38:45 INFO  SemaphoreTest:31 - B : acquiring lock...
+2018-08-21 15:38:45 INFO  SemaphoreTest:32 - B : available Semaphore permits now: 1
+2018-08-21 15:38:45 INFO  SemaphoreTest:36 - B : got the permit!
+2018-08-21 15:38:45 INFO  SemaphoreTest:42 - B : is performing operation 1, available Semaphore permits : 0
+2018-08-21 15:38:45 INFO  SemaphoreTest:32 - C : available Semaphore permits now: 1
+2018-08-21 15:38:45 INFO  SemaphoreTest:36 - A : got the permit!
+2018-08-21 15:38:45 INFO  SemaphoreTest:42 - A : is performing operation 1, available Semaphore permits : 0
+2018-08-21 15:38:45 INFO  SemaphoreTest:36 - E : got the permit!
+2018-08-21 15:38:45 INFO  SemaphoreTest:42 - D : is performing operation 1, available Semaphore permits : 3
+2018-08-21 15:38:45 INFO  SemaphoreTest:31 - F : acquiring lock...
+2018-08-21 15:38:45 INFO  SemaphoreTest:42 - E : is performing operation 1, available Semaphore permits : 0
+2018-08-21 15:38:45 INFO  SemaphoreTest:32 - F : available Semaphore permits now: 0
+2018-08-21 15:38:46 INFO  SemaphoreTest:42 - B : is performing operation 2, available Semaphore permits : 0
+2018-08-21 15:38:46 INFO  SemaphoreTest:42 - D : is performing operation 2, available Semaphore permits : 0
+2018-08-21 15:38:46 INFO  SemaphoreTest:42 - A : is performing operation 2, available Semaphore permits : 0
+2018-08-21 15:38:46 INFO  SemaphoreTest:42 - E : is performing operation 2, available Semaphore permits : 0
+2018-08-21 15:38:47 INFO  SemaphoreTest:42 - B : is performing operation 3, available Semaphore permits : 0
+2018-08-21 15:38:47 INFO  SemaphoreTest:42 - D : is performing operation 3, available Semaphore permits : 0
+2018-08-21 15:38:47 INFO  SemaphoreTest:42 - E : is performing operation 3, available Semaphore permits : 0
+2018-08-21 15:38:47 INFO  SemaphoreTest:42 - A : is performing operation 3, available Semaphore permits : 0
+2018-08-21 15:38:48 INFO  SemaphoreTest:42 - B : is performing operation 4, available Semaphore permits : 0
+2018-08-21 15:38:48 INFO  SemaphoreTest:42 - D : is performing operation 4, available Semaphore permits : 0
+2018-08-21 15:38:48 INFO  SemaphoreTest:42 - A : is performing operation 4, available Semaphore permits : 0
+2018-08-21 15:38:48 INFO  SemaphoreTest:42 - E : is performing operation 4, available Semaphore permits : 0
+2018-08-21 15:38:49 INFO  SemaphoreTest:42 - B : is performing operation 5, available Semaphore permits : 0
+2018-08-21 15:38:49 INFO  SemaphoreTest:42 - D : is performing operation 5, available Semaphore permits : 0
+2018-08-21 15:38:49 INFO  SemaphoreTest:42 - A : is performing operation 5, available Semaphore permits : 0
+2018-08-21 15:38:49 INFO  SemaphoreTest:42 - E : is performing operation 5, available Semaphore permits : 0
+2018-08-21 15:38:50 INFO  SemaphoreTest:54 - B : releasing lock...
+2018-08-21 15:38:50 INFO  SemaphoreTest:56 - B : available Semaphore permits now: 1
+2018-08-21 15:38:50 INFO  SemaphoreTest:36 - C : got the permit!
+2018-08-21 15:38:50 INFO  SemaphoreTest:42 - C : is performing operation 1, available Semaphore permits : 0
+2018-08-21 15:38:50 INFO  SemaphoreTest:54 - D : releasing lock...
+2018-08-21 15:38:50 INFO  SemaphoreTest:54 - E : releasing lock...
+2018-08-21 15:38:50 INFO  SemaphoreTest:54 - A : releasing lock...
+2018-08-21 15:38:50 INFO  SemaphoreTest:56 - E : available Semaphore permits now: 1
+2018-08-21 15:38:50 INFO  SemaphoreTest:36 - F : got the permit!
+2018-08-21 15:38:50 INFO  SemaphoreTest:56 - D : available Semaphore permits now: 1
+2018-08-21 15:38:50 INFO  SemaphoreTest:42 - F : is performing operation 1, available Semaphore permits : 2
+2018-08-21 15:38:50 INFO  SemaphoreTest:56 - A : available Semaphore permits now: 2
+2018-08-21 15:38:51 INFO  SemaphoreTest:42 - C : is performing operation 2, available Semaphore permits : 2
+2018-08-21 15:38:51 INFO  SemaphoreTest:42 - F : is performing operation 2, available Semaphore permits : 2
+2018-08-21 15:38:52 INFO  SemaphoreTest:42 - C : is performing operation 3, available Semaphore permits : 2
+2018-08-21 15:38:52 INFO  SemaphoreTest:42 - F : is performing operation 3, available Semaphore permits : 2
+2018-08-21 15:38:53 INFO  SemaphoreTest:42 - C : is performing operation 4, available Semaphore permits : 2
+2018-08-21 15:38:53 INFO  SemaphoreTest:42 - F : is performing operation 4, available Semaphore permits : 2
+2018-08-21 15:38:54 INFO  SemaphoreTest:42 - C : is performing operation 5, available Semaphore permits : 2
+2018-08-21 15:38:54 INFO  SemaphoreTest:42 - F : is performing operation 5, available Semaphore permits : 2
+2018-08-21 15:38:55 INFO  SemaphoreTest:54 - C : releasing lock...
+2018-08-21 15:38:55 INFO  SemaphoreTest:56 - C : available Semaphore permits now: 3
+2018-08-21 15:38:55 INFO  SemaphoreTest:54 - F : releasing lock...
+2018-08-21 15:38:55 INFO  SemaphoreTest:56 - F : available Semaphore permits now: 4
