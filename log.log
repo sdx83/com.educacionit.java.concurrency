@@ -703,3 +703,114 @@
 2018-08-21 15:38:55 INFO  SemaphoreTest:56 - C : available Semaphore permits now: 3
 2018-08-21 15:38:55 INFO  SemaphoreTest:54 - F : releasing lock...
 2018-08-21 15:38:55 INFO  SemaphoreTest:56 - F : available Semaphore permits now: 4
+2018-08-28 14:55:38 INFO  DomainNameIP:28 - 98.138.219.232
+2018-08-28 14:55:38 INFO  DomainNameIP:28 - 72.30.35.10
+2018-08-28 14:55:38 INFO  DomainNameIP:28 - 98.138.219.231
+2018-08-28 14:55:38 INFO  DomainNameIP:28 - 72.30.35.9
+2018-08-28 14:55:38 INFO  DomainNameIP:28 - 2001:4998:44:41d:0:0:0:3
+2018-08-28 14:55:38 INFO  DomainNameIP:28 - 2001:4998:58:1836:0:0:0:11
+2018-08-28 14:55:38 INFO  DomainNameIP:28 - 2001:4998:44:41d:0:0:0:4
+2018-08-28 14:55:38 INFO  DomainNameIP:28 - 2001:4998:58:1836:0:0:0:10
+2018-08-28 15:04:40 INFO  ConnectToWebServer:24 - Connected to www.educacionit.com/132.148.142.47
+2018-08-28 15:12:16 INFO  CheckModified:23 - The last modification time of 0 :
+2018-08-28 15:16:42 INFO  TestUrl:22 - http://www.educacionit.com
+2018-08-28 15:26:08 INFO  TestUrl2:26 - http://www.educacionit.com:80/paquetes-java
+2018-08-28 15:32:31 INFO  TestUrl3:27 - Protocol: http
+2018-08-28 15:32:31 INFO  TestUrl3:28 - Host: www.educacionit.com
+2018-08-28 15:32:31 INFO  TestUrl3:29 - Port: 80
+2018-08-28 15:32:31 INFO  TestUrl3:30 - Athority of the URL: www.educacionit.com:80
+2018-08-28 15:32:31 INFO  TestUrl3:31 - Query: null
+2018-08-28 15:32:31 INFO  TestUrl3:32 - Reference: null
+2018-08-28 15:32:31 INFO  TestUrl3:34 - http://www.educacionit.com:80/paquetes-java
+2018-08-28 15:35:31 INFO  TestUrl4:30 - <!DOCTYP
+2018-08-28 15:35:31 INFO  TestUrl4:30 - E HTML P
+2018-08-28 15:35:31 INFO  TestUrl4:30 - UBLIC "-
+2018-08-28 15:35:31 INFO  TestUrl4:30 - //IETF//
+2018-08-28 15:35:31 INFO  TestUrl4:30 - DTD HTML
+2018-08-28 15:35:31 INFO  TestUrl4:30 -  2.0//EN
+2018-08-28 15:35:31 INFO  TestUrl4:30 - ">
+<html
+2018-08-28 15:35:31 INFO  TestUrl4:30 - ><head>
+
+2018-08-28 15:35:31 INFO  TestUrl4:30 - <title>3
+2018-08-28 15:35:31 INFO  TestUrl4:30 - 01 Moved
+2018-08-28 15:35:31 INFO  TestUrl4:30 -  Permane
+2018-08-28 15:35:31 INFO  TestUrl4:30 - ntly</ti
+2018-08-28 15:35:31 INFO  TestUrl4:30 - tle>
+</h
+2018-08-28 15:35:31 INFO  TestUrl4:30 - ead><bod
+2018-08-28 15:35:31 INFO  TestUrl4:30 - y>
+<h1>M
+2018-08-28 15:35:31 INFO  TestUrl4:30 - oved Per
+2018-08-28 15:35:31 INFO  TestUrl4:30 - manently
+2018-08-28 15:35:31 INFO  TestUrl4:30 - </h1>
+<p
+2018-08-28 15:35:31 INFO  TestUrl4:30 - >The doc
+2018-08-28 15:35:31 INFO  TestUrl4:30 - ument ha
+2018-08-28 15:35:31 INFO  TestUrl4:30 - s moved 
+2018-08-28 15:35:31 INFO  TestUrl4:30 - <a href=
+2018-08-28 15:35:31 INFO  TestUrl4:30 - "https:/
+2018-08-28 15:35:31 INFO  TestUrl4:30 - /www.edu
+2018-08-28 15:35:31 INFO  TestUrl4:30 - cacionit
+2018-08-28 15:35:31 INFO  TestUrl4:30 - .com/">h
+2018-08-28 15:35:31 INFO  TestUrl4:30 - ere</a>.
+2018-08-28 15:35:31 INFO  TestUrl4:30 - </p>
+</b
+2018-08-28 15:35:31 INFO  TestUrl4:30 - ody></ht
+2018-08-28 15:35:31 INFO  TestUrl4:30 - ml>
+</ht
+2018-08-28 15:36:03 INFO  TestUrl4:30 - redirect
+2018-08-28 15:47:07 INFO  DomainNameIP:21 - waiting for request from client
+2018-08-28 15:47:46 INFO  DomainNameIP:21 - waiting for request from client
+2018-08-28 15:49:08 INFO  EchoServer:21 - waiting for request from client
+2018-08-28 15:49:21 INFO  EchoClient:21 - Sending request to server....
+2018-08-28 15:49:21 INFO  EchoServer:23 - request accepted
+2018-08-28 15:49:21 INFO  EchoClient:23 - Successfully connected
+2018-08-28 15:49:21 INFO  EchoClient:31 - Input the data you want to send to echo server: 
+2018-08-28 15:49:28 INFO  EchoClient:41 - data returned by the server:   
+2018-08-28 15:49:28 INFO  EchoClient:42 - barca
+2018-08-28 15:49:28 INFO  EchoClient:31 - Input the data you want to send to echo server: 
+2018-08-28 15:53:41 INFO  EchoServer:21 - waiting for request from client
+2018-08-28 15:53:50 INFO  EchoClient:21 - Sending request to server....
+2018-08-28 15:53:50 INFO  EchoClient:23 - Successfully connected
+2018-08-28 15:53:50 INFO  EchoServer:23 - request accepted
+2018-08-28 15:53:50 INFO  EchoClient:31 - Input the data you want to send to echo server: 
+2018-08-28 15:53:56 INFO  EchoServer:29 - Data received : barca
+2018-08-28 15:53:56 INFO  EchoClient:41 - data returned by the server:   
+2018-08-28 15:53:56 INFO  EchoClient:42 - barca
+2018-08-28 15:53:56 INFO  EchoClient:31 - Input the data you want to send to echo server: 
+2018-08-28 15:59:38 INFO  MultiThreadServer:25 - Listening
+2018-08-28 15:59:45 INFO  EchoClient:21 - Sending request to server....
+2018-08-28 15:59:45 INFO  EchoClient:23 - Successfully connected
+2018-08-28 15:59:45 DEBUG MultiThreadServer:29 - Connected
+2018-08-28 15:59:45 INFO  EchoClient:31 - Input the data you want to send to echo server: 
+2018-08-28 15:59:50 INFO  EchoClient:41 - data returned by the server:   
+2018-08-28 15:59:50 INFO  EchoClient:42 - 100 bottles of beer on the wall
+2018-08-28 15:59:50 INFO  EchoClient:31 - Input the data you want to send to echo server: 
+2018-08-28 16:00:58 INFO  MultiThreadServer:25 - Listening
+2018-08-28 16:01:05 INFO  EchoClient:21 - Sending request to server....
+2018-08-28 16:01:05 DEBUG MultiThreadServer:29 - Connected
+2018-08-28 16:01:05 INFO  EchoClient:23 - Successfully connected
+2018-08-28 16:01:05 INFO  EchoClient:31 - Input the data you want to send to echo server: 
+2018-08-28 16:01:08 INFO  EchoClient:41 - data returned by the server:   
+2018-08-28 16:01:08 INFO  EchoClient:42 - 100 bottles of beer on the wall
+2018-08-28 16:01:08 INFO  EchoClient:31 - Input the data you want to send to echo server: 
+2018-08-28 16:07:53 INFO  MultiThreadServer:27 - Listening
+2018-08-28 16:07:59 INFO  EchoClient:21 - Sending request to server....
+2018-08-28 16:07:59 INFO  EchoClient:23 - Successfully connected
+2018-08-28 16:07:59 DEBUG MultiThreadServer:31 - Connected
+2018-08-28 16:07:59 INFO  EchoClient:31 - Input the data you want to send to echo server: 
+2018-08-28 16:08:02 INFO  MultiThreadServer:39 - Data received : barca
+2018-08-28 16:08:02 INFO  EchoClient:41 - data returned by the server:   
+2018-08-28 16:08:02 INFO  EchoClient:42 - barca
+2018-08-28 16:08:02 INFO  EchoClient:31 - Input the data you want to send to echo server: 
+2018-08-28 16:15:30 INFO  ClientChat:20 - sending request to peer....
+2018-08-28 16:15:30 INFO  ClientChat:22 - successfully conneted
+2018-08-28 16:15:47 INFO  Clie:62 -  aa
+2018-08-28 16:15:52 INFO  Serv:52 - client: aaa
+2018-08-28 16:15:57 INFO  Clie:62 -  test
+2018-08-28 16:16:02 INFO  Serv:52 - client: hola
+2018-08-28 16:16:10 INFO  Clie:62 -  test1
+2018-08-28 16:16:15 INFO  Serv:52 - client: test1 2
+2018-08-28 16:27:02 INFO  MessageSender:54 - Message sent 'Sent from Educacion IT.'
+2018-08-28 16:29:32 INFO  MessageSender:56 - Received message 'Sent from Educacion IT.'
